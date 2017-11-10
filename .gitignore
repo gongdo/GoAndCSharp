@@ -4,3 +4,12 @@
 # Go
 **/debug.test
 
+# C#
+[Bb]in/
+[Oo]bj/
+
+# VS
+.vs/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.user
