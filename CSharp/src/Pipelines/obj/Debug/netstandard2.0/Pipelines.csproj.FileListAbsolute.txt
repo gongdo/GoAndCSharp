@@ -1,8 +1,0 @@
-D:\Work\Gongdo\GoAndCSharp\CSharp\src\Pipelines\obj\Debug\netstandard2.0\Pipelines.csproj.CoreCompileInputs.cache
-D:\Work\Gongdo\GoAndCSharp\CSharp\src\Pipelines\obj\Debug\netstandard2.0\Pipelines.AssemblyInfoInputs.cache
-D:\Work\Gongdo\GoAndCSharp\CSharp\src\Pipelines\obj\Debug\netstandard2.0\Pipelines.AssemblyInfo.cs
-d:\Work\Gongdo\GoAndCSharp\CSharp\src\Pipelines\bin\Debug\netstandard2.0\Pipelines.deps.json
-d:\Work\Gongdo\GoAndCSharp\CSharp\src\Pipelines\bin\Debug\netstandard2.0\Pipelines.dll
-d:\Work\Gongdo\GoAndCSharp\CSharp\src\Pipelines\bin\Debug\netstandard2.0\Pipelines.pdb
-d:\Work\Gongdo\GoAndCSharp\CSharp\src\Pipelines\obj\Debug\netstandard2.0\Pipelines.dll
-d:\Work\Gongdo\GoAndCSharp\CSharp\src\Pipelines\obj\Debug\netstandard2.0\Pipelines.pdb
