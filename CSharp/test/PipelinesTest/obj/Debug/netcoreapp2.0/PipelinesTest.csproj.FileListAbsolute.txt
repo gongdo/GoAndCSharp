@@ -1,0 +1,15 @@
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\PipelinesTest.deps.json
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\PipelinesTest.runtimeconfig.json
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\PipelinesTest.runtimeconfig.dev.json
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\PipelinesTest.dll
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\PipelinesTest.pdb
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\Pipelines.dll
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\bin\Debug\netcoreapp2.0\Pipelines.pdb
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\obj\Debug\netcoreapp2.0\PipelinesTest.csproj.CoreCompileInputs.cache
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\obj\Debug\netcoreapp2.0\PipelinesTest.AssemblyInfoInputs.cache
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\obj\Debug\netcoreapp2.0\PipelinesTest.AssemblyInfo.cs
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\obj\Debug\netcoreapp2.0\PipelinesTest.dll
+d:\Work\Gongdo\GoAndCSharp\CSharp\test\PipelinesTest\obj\Debug\netcoreapp2.0\PipelinesTest.pdb
