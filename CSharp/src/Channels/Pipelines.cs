@@ -12,7 +12,7 @@ namespace Channels
     {
         public BlockingCollection<int> Generate(params int[] numbers) 
         {
-            var output = new BlockingCollection<int>(numbers.Length);
+            var output = new BlockingCollection<int>();
             Task.Run(() =>
             {
                 foreach(var n in numbers)
